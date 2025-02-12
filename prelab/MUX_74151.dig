@@ -132,7 +132,7 @@ S is strobe.  When strobe is high the output is always low,
   otherwise it&apos;s the selected data line.</string>
         </entry>
       </elementAttributes>
-      <pos x="-180" y="380"/>
+      <pos x="-200" y="420"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
